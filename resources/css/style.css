@@ -1,3 +1,4 @@
-body {
-  background-image: url("../../resources/images/under.jpeg");
+h1 {
+  display: flex;
+  justify-content: center;
 }
