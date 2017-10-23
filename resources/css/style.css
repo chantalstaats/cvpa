@@ -1,3 +1,6 @@
+body {
+  background-color: black;
+}
 img {
   display: flex;
   justify-content: center;
@@ -5,4 +8,5 @@ img {
 h1 {
   display: flex;
   justify-content: center;
+  color: white;
 }
